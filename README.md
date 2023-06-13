@@ -12,7 +12,7 @@ In challenge eleven we were asked to create a note taker that would add and dele
 N/A
 
 ## usage
-click the link here to the deployed page:
+click the link here to the deployed page: https://marvinblunck.github.io/NoteTaker/
 
 To use the note taker add a note by clicking the plus sign and fill out anything that you would want in it. Then hit the save button in the top right, and you can click the trashcan to delete it when you are done with it.
 
